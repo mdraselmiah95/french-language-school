@@ -18,13 +18,13 @@ const MenuBar = () => {
                 <Link to="/home" className="items">
                   <li>HOME</li>
                 </Link>
-                <Link to="/sports" className="items">
+                <Link to="/courses" className="items">
                   <li>COURSES</li>
                 </Link>
-                <Link to="/about" className="items">
+                <Link to="/life" className="items">
                   <li>LIFE AT SCHOOL</li>
                 </Link>
-                <Link to="contact" className="items">
+                <Link to="/Activities" className="items">
                   <li>ACTIVITIES </li>
                 </Link>
               </ul>

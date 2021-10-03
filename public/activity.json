@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Trips",
+    "para": "During the afternoons, our professional guide, Isabelle, will take you behind the scenes of the Opéra Garnier, share anecdotes of exciting life in Saint Germain des Prés, take you meandering through the Marais, show you the different views of Montmartre and the picturesque little streets in the île de la Cité, helping you discover a little known Paris that is full of surprises.You study in mini-group in the morning and practice your French in the afternoon while enjoying Paris: subscribe to our thematic workshops and visits! Get acquainted with French cinema and discover its history at the French film library of Bercy. Discover the history of fashion in France and appreciate the greatest designers at the “Cité de la mode et du design”.Get on the boards of your classroom and book your evening theater… So many ways to discover French culture and the City of Light by practicing French!",
+    "img": "https://elfe-paris.com/wp-content/uploads/2017/01/excursions-montmartre.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Fine Food",
+    "para": "In 2010, French cuisine was declared a world intangible heritage by UNESCO. Use your stay in Paris to immerse yourself in the culture of cuisine, thanks to cooking lessons provided by the the Atelier des Chefs.In a Parisian department store, a professional will show the students how to prepare a simple dish or a complete menu with everyday ingredients. These cooking lessons last between 30 minutes and 4 hours, and during this time you will roll your sleeves up and get stuck in! After several practical exercises, the participants will have the opportunity to taste the dishes they have just prepared.",
+    "img": "https://elfe-paris.com/wp-content/uploads/2017/01/gastronomie.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Fine Art",
+    "para": "Thanks to its museums and galleries, the city of Paris is a dream environment either for an introduction to the fine arts or to deepen your knowledge. In workshops in the Bastille district or at our own premises, you will have the opportunity to take an excellent artistic course to complement your language classes.With teachers from the Ecole Conte art school, you will explore all the aspects of art courses: drawing from observation, life drawing, composition, colours, etc.",
+    "img": "https://elfe-paris.com/wp-content/uploads/2017/02/cours-beaux-arts-elfe.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Fashion",
+    "para": "Make the most of your stay in the capital city of fashion to learn about fashion design with teachers from Ecole Conte.Under the tuition of fashion designers from the great Paris fashion houses, you will study form, quality and also the rapidity of fashion. You will be plunged into a workshop, where you will discover that innovation and experimentation are just as important as technique, expertise and craft.",
+    "img": "https://elfe-paris.com/wp-content/uploads/2017/02/cours-de-stylisme.jpg"
+  }
+]
