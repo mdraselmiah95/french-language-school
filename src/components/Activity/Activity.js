@@ -1,7 +1,6 @@
 import React from "react";
 
 const Activity = (props) => {
-  console.log(props.activity);
   const { title, para, img } = props.activity;
   return (
     <div className="d-md-flex">

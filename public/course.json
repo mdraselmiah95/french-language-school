@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Group Classes",
+    "time": "$396 for 8 weeks",
+    "f1": "Learn French in 1 class per week",
+    "f2": "1 term runs for 8 weeks",
+    "f3": "Small group class",
+    "f4": "French native qualified teachers",
+    "f5": "Focused on interaction"
+  },
+  {
+    "id": 2,
+    "title": "Private Tuition",
+    "time": "from $69 per hour",
+    "f1": "Learn French 1-on-1 or 1-on-2",
+    "f2": "Lessons tailored to your needs",
+    "f3": "French native qualified teachers",
+    "f4": "Speed up your French learning",
+    "f5": "Speak French from day 1"
+  },
+  {
+    "id": 3,
+    "title": "Accelerated Learning",
+    "time": "from $99 per hour",
+    "f1": "Fast track your French learning",
+    "f2": "Learn French 1-on-1",
+    "f3": "Lessons crafted to your goals",
+    "f4": "French native qualified teachers",
+    "f5": "Tailor-made program"
+  }
+]

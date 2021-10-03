@@ -9,11 +9,13 @@
 .icon:hover {
   background-color: rgb(31, 119, 65);
 }
-.footer-menu {
-  list-style: none;
-  margin-top: 20px;
-  font-size: 16px;
+a {
+  color: #4092b9;
+  margin: 15px 0;
+  display: block;
+  text-decoration: none;
   cursor: pointer;
+  font-weight: 700;
 }
 .footer-menu:hover {
   color: rgb(0, 153, 255);

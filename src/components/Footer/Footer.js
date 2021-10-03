@@ -10,6 +10,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
+import { Link as NavLink } from "react-router-dom";
 import "./Footer.css";
 
 const Footer = () => {
@@ -53,11 +54,21 @@ const Footer = () => {
             <div className="col-md-2">
               <div className="footer-menu-container">
                 <ul>
-                  <li className="footer-menu">HOME</li>
-                  <li className="footer-menu">COURSES</li>
-                  <li className="footer-menu">LIFE AT SCHOOL</li>
-                  <li className="footer-menu">ACTIVITIES</li>
-                  <li className="footer-menu"> About us</li>
+                  <NavLink to="/home" className="footer-menu">
+                    HOME
+                  </NavLink>
+                  <NavLink to="/courses" className="footer-menu">
+                    COURSES
+                  </NavLink>
+                  <NavLink to="/life" className="footer-menu">
+                    LIFE AT SCHOOL
+                  </NavLink>
+                  <NavLink to="/Activities" className="footer-menu">
+                    ACTIVITIES
+                  </NavLink>
+                  <NavLink to="/home" className="footer-menu">
+                    About us
+                  </NavLink>
                 </ul>
               </div>
             </div>
