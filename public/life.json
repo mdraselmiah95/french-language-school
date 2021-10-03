@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "July 10",
+    "title": "Young Indians discover France with Elfe",
+    "img": "https://elfe-paris.com/wp-content/uploads/2018/07/mini-etudiant-indien-alpes-elfe-1024x637.jpg",
+    "para": "About thirty young Indians from Mumbai spent two weeks in France during their training at Elfe."
+  },
+  {
+    "id": 2,
+    "date": "July 6",
+    "title": "Take part in our July tours!",
+    "img": "https://elfe-paris.com/wp-content/uploads/2018/07/Activit%C3%A9s-juil-2018-mini.jpg",
+    "para": "Every month, Elfe offers many activities in Paris, every Friday at 1pm, after French classes. Discover the program of the month of July 2018…"
+  },
+  {
+    "id": 3,
+    "date": "April 12",
+    "title": "Elfe celebrates francophonie’s week!",
+    "img": "https://elfe-paris.com/wp-content/uploads/2018/04/semaine-francophonie-elfe-paris-1-1024x576.jpg",
+    "para": "From March 17 to 25, it was the 23rd week of the French language and francophonie! On this occasion, Elfe proposed to his students a special day around the 5 senses and the 5 continents."
+  },
+  {
+    "id": 4,
+    "date": "November 13",
+    "title": "Elfe sets in Geneva",
+    "img": "https://elfe-paris.com/wp-content/uploads/2018/04/Activit%C3%A9s-avril-2018-v2-mini.jpg",
+    "para": "Created in 1984 in Paris, the school is now developing its international ambition by setting up in Geneva."
+  },
+  {
+    "id": 5,
+    "date": "April 4",
+    "title": "The program of activities for April has arrived!",
+    "img": "https://elfe-paris.com/wp-content/uploads/2017/11/Elfe-ouvre-elfe-geneve-1024x682.jpg",
+    "para": "Each month, we offer our students the opportunity to register for many workshops, visits or initiations allowing them to apply the learning seen in class."
+  },
+  {
+    "id": 6,
+    "date": "July 27",
+    "title": "The Collège de Paris moves to La Défense",
+    "img": "https://elfe-paris.com/wp-content/uploads/2017/07/Campus-de-La-D%C3%A9fense-mini.jpg",
+    "para": "By the end of the year, the Collège de Paris will open a campus in the Arche de La Défense. The four schools involved in this move – Ascencia Business School, l’Ecole Conte, Digital College et Ascencia Sport."
+  }
+]
