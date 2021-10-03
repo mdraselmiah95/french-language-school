@@ -9,6 +9,7 @@ const Learn = () => {
   }, []);
   return (
     <div className="row m-3">
+      <h1 className="text-center py-3">Why learn with us</h1>
       {ways.map((way) => (
         <div key={way.id} className="col-md-4">
           <div
