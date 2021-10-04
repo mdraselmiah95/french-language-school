@@ -1,15 +1,34 @@
-# Getting Started with Create React App
+# The French Language School.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project location [French Language Club](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## As a language school where our main motto is to provide best service for learners.
 
-In the project directory, you can run:
+## Our team remains available by email to answer all your questions.
 
-### `npm start`
+## Quality FLE certified - Member of the Collège de Paris
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Available option for learning:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Group Classes
+
+- Private Tuition
+
+- Accelerated Learning
+
+- Mini-group in the morning
+
+- Evening classes
+
+- Au pair classes
+
+- Private lessons
+
+## Also
+
+1. Small Groups,
+2. Fun & Interactive,
+3. Follow a thorough and structured Curriculum,
+4. Learn from a professional French Native Teacher,
+5. Learn French by speaking French and not English,
+6. Join our Community and practice your French!
